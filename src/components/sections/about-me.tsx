@@ -34,17 +34,17 @@ const AboutMeSection = () => {
 						Curious about me? Here you have it:
 					</Typography>
 					<Typography>
-						I'm a full-stack developer specializing in Laravel and Next.js. I’m
-						passionate about bringing both the technical and visual aspects of
-						digital products to life. User experience, pixel-perfect design,
-						well-structured projects and databases, and writing clear, readable,
-						and high-performance code are all important to me.
+						I&apos;m a full-stack developer specializing in Laravel and Next.js.
+						I&apos;m passionate about bringing both the technical and visual
+						aspects of digital products to life. User experience, pixel-perfect
+						design, well-structured projects and databases, and writing clear,
+						readable, and high-performance code are all important to me.
 					</Typography>
 					<Typography>
-						I began my journey as a web developer in 2024. Since then, I’ve
+						I began my journey as a web developer in 2024. Since then, I&apos;ve
 						continued to grow, taking on new challenges and learning the latest
 						technologies along the way. Now, in my early thirties, nearly two
-						years after starting my web development career, I’m building
+						years after starting my web development career, I&apos;m building
 						cutting-edge web applications using modern technologies such as
 						Laravel, Next.js, TypeScript, Next.js, Tailwind CSS, and elegant UI
 						components like ShadCN and Hero UI, among others.
@@ -54,7 +54,7 @@ const AboutMeSection = () => {
 						end-to-end—from ideation to development.
 					</Typography>
 					<Typography>
-						When I’m not coding, you can usually find me exploring new
+						When I&apos;m not coding, you can usually find me exploring new
 						technologies, experimenting with side projects, or simply enjoying
 						with some freetime.
 					</Typography>
@@ -75,8 +75,8 @@ const AboutMeSection = () => {
 					</div>
 					<Typography>
 						I am currently seeking new opportunities, so feel free to reach out
-						and connect. I’m excited to contribute to innovative projects and
-						collaborate with great teams! 😉
+						and connect. I&apos;m excited to contribute to innovative projects
+						and collaborate with great teams! 😉
 					</Typography>
 				</div>
 			</div>
